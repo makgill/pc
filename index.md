@@ -2,34 +2,38 @@
 layout: default
 ---
 
-# I am Craig's complete lack of surprise
+# Fierce Nerds
 
-The Biden infastructure bill crypto amendments have had one positive effect: everyone has stopped pretending government can't hurt cryptocurrencies.
+Most people think of nerds as quiet, diffident people. In ordinary social situations they are — as quiet and diffident as the star quarterback would be if he found himself in the middle of a physics symposium. And for the same reason: they are fish out of water. But the apparent diffidence of nerds is an illusion due to the fact that when non-nerds observe them, it's usually in ordinary social situations. In fact some nerds are quite fierce.
 
-Trending yesterday was the [#DontKillCrypto.](https://twitter.com/search?q=%23DontKillCrypto) You could see it on most of the top Bitfluencer Twitter accounts, people who have, for the better part of a decade, play an ever-escalating and competive
-game of freedom porn where the winners are picked by how ridiculous their assertions are about Bitcoin and The State.
+The fierce nerds are a small but interesting group. They are as a rule extremely competitive — more competitive, I'd say, than highly competitive non-nerds. Competition is more personal for them. Partly perhaps because they're not emotionally mature enough to distance themselves from it, but also because there's less randomness in the kinds of competition they engage in, and they are thus more justified in taking the results personally.
 
-As someone who believes in totally unregulated, free-market capitalism, I once wishfully and ignorantly believed these people had a point. *Of course,* I told myself
-*Bitcoin can't be stopped or hurt by the government.*
+Fierce nerds also tend to be somewhat overconfident, especially when young. It might seem like it would be a disadvantage to be mistaken about one's abilities, but empirically it isn't. Up to a point, confidence is a self-fullfilling prophecy.
 
-Then I began to read what Satoshi Nakamoto [actually](https://bitcointalk.org/index.php?topic=234.msg1976#msg1976)[^1] wrote about Bitcoin and study how Bitcoin really works. With some helpful commentary from people like
-Mike Hearn,[^2] I realised some things that should have been obvious all along. Cryptocurrencies, including Bitcoin...
+Another quality you find in most fierce nerds is intelligence. Not all nerds are smart, but the fierce ones are always at least moderately so. If they weren't, they wouldn't have the confidence to be fierce. [1]
 
-1. Do not end The State.
-2. Are traceable.
-3. Are subject to regulations whether we like it or not. And these regulations have a variety of enforcement regulations that make attempting to handwave them away with some lines of code foolish.
-4. Can be censored indirectly and maybe directly.
-5. Are all centralised.
-6. Are a whole lot of other bad things I'm sure I am forgetting.
+There's also a natural connection between nerdiness and independent-mindedness. It's hard to be independent-minded without being somewhat socially awkward, because conventional beliefs are so often mistaken, or at least arbitrary. No one who was both independent-minded and ambitious would want to waste the effort it takes to fit in. And the independent-mindedness of the fierce nerds will obviously be of the aggressive rather than the passive type: they'll be annoyed by rules, rather than dreamily unaware of them.
 
-Having known this for some time, all I can do is sit on the sidelines and laugh cathartically at the spectacle of a decade of bullshit collapsing in on itself.
+I'm less sure why fierce nerds are impatient, but most seem to be. You notice it first in conversation, where they tend to interrupt you. This is merely annoying, but in the more promising fierce nerds it's connected to a deeper impatience about solving problems. Perhaps the competitiveness and impatience of fierce nerds are not separate qualities, but two manifestations of a single underlying drivenness.
 
-I am Craig's complete lack of surprise.[^3]
+When you combine all these qualities in sufficient quantities, the result is quite formidable. The most vivid example of fierce nerds in action may be James Watson's The Double Helix. The first sentence of the book is "I have never seen Francis Crick in a modest mood," and the portrait he goes on to paint of Crick is the quintessential fierce nerd: brilliant, socially awkward, competitive, independent-minded, overconfident. But so is the implicit portrait he paints of himself. Indeed, his lack of social awareness makes both portraits that much more realistic, because he baldly states all sorts of opinions and motivations that a smoother person would conceal. And moreover it's clear from the story that Crick and Watson's fierce nerdiness was integral to their success. Their independent-mindedness caused them to consider approaches that most others ignored, their overconfidence allowed them to work on problems they only half understood (they were literally described as "clowns" by one eminent insider), and their impatience and competitiveness got them to the answer ahead of two other groups that would otherwise have found it within the next year, if not the next several months. [2]
 
-[^1]: When responding to a forum user who said that Bitcoin existed "outside of the reach of any government," Satoshi said "I am definitely not making an such taunt or assertion."
+The idea that there could be fierce nerds is an unfamiliar one not just to many normal people but even to some young nerds. Especially early on, nerds spend so much of their time in ordinary social situations and so little doing real work that they get a lot more evidence of their awkwardness than their power. So there will be some who read this description of the fierce nerd and realize "Hmm, that's me." And it is to you, young fierce nerd, that I now turn.
 
-[^2]: See Mike Hearn's BitcoinTalk quotes. 
+I have some good news, and some bad news. The good news is that your fierceness will be a great help in solving difficult problems. And not just the kind of scientific and technical problems that nerds have traditionally solved. As the world progresses, the number of things you can win at by getting the right answer increases. Recently getting rich became one of them: 7 of the 8 richest people in America are now fierce nerds.
 
-[^3]: This is going to get me in trouble with everyone. People who hate Craig will say I'm a cultist. People who love him will welcome me to the cult! The truth is, I just think it's a great title. And, if we're being fair, Craig Wright has been a fairly lone, and often crazy, voice in the wilderness telling people that government crackdowns were coming.
+Indeed, being a fierce nerd is probably even more helpful in business than in nerds' original territory of scholarship. Fierceness seems optional there. Darwin for example doesn't seem to have been especially fierce. Whereas it's impossible to be the CEO of a company over a certain size without being fierce, so now that nerds can win at business, fierce nerds will increasingly monopolize the really big successes.
 
-**See also:** [People Who Insist Gov’t Can’t Kill Crypto Begging Congress Not to Kill Crypto](https://thesoontimes.com/2021/08/07/people-who-insist-govt-cant-kill-crypto-begging-congress-not-to-kill-crypto/)
+The bad news is that if it's not exercised, your fierceness will turn to bitterness, and you will become an intellectual playground bully: the grumpy sysadmin, the forum troll, the hater, the shooter down of new ideas.
+
+How do you avoid this fate? Work on ambitious projects. If you succeed, it will bring you a kind of satisfaction that neutralizes bitterness. But you don't need to have succeeded to feel this; merely working on hard projects gives most fierce nerds some feeling of satisfaction. And those it doesn't, it at least keeps busy. [3]
+
+Another solution may be to somehow turn off your fierceness, by devoting yourself to meditation or psychotherapy or something like that. Maybe that's the right answer for some people. I have no idea. But it doesn't seem the optimal solution to me. If you're given a sharp knife, it seems to me better to use it than to blunt its edge to avoid cutting yourself.
+
+If you do choose the ambitious route, you'll have a tailwind behind you. There has never been a better time to be a nerd. In the past century we've seen a continuous transfer of power from dealmakers to technicians — from the charismatic to the competent — and I don't see anything on the horizon that will end it. At least not till the nerds end it themselves by bringing about the singularity.
+
+
+
+
+
+
