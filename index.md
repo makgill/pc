@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fierce Nerds
+image: https://sep.yimg.com/ca/I/paulgraham_2202_9240311
 ---
 
 May 2020
