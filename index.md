@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
+title: Fierce Nerds
 ---
-
-# Fierce Nerds
 
 May 2020
 
