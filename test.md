@@ -1,5 +1,6 @@
 ---
 layout: page
+title: b-money
 ---
 
 I am fascinated by Tim May's crypto-anarchy. Unlike the communities
