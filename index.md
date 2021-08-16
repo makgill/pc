@@ -34,7 +34,6 @@ Another solution may be to somehow turn off your fierceness, by devoting yoursel
 
 If you do choose the ambitious route, you'll have a tailwind behind you. There has never been a better time to be a nerd. In the past century we've seen a continuous transfer of power from dealmakers to technicians — from the charismatic to the competent — and I don't see anything on the horizon that will end it. At least not till the nerds end it themselves by bringing about the singularity.
 
-<button class="btn-toggle">Toggle Dark-Mode</button>
 
 
 
