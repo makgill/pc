@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+{% assign documents = site.documents | sort: 'date' | reverse %}
+
+{% for document in documents limit:1 %}
+  {% if document.layout == 'feature' %}
+
+    {% if document.image %}
+        <a href="{{ document.url | relative_url }}" style="
+    text-decoration: none;
+">
+          <img src="{{ document.image | relative_url }}" alt="{{ document.alt }}" style="max-width:60%">
+          
+        </a>
+       {% endif %}         
+         
+
+       <h1>
+          
+         {{ document.title }} 
+       
+       </h1>
+
+ <p>{{ document.date | date: "%Y-%m-%d" }}</p>
+        
+   {{ document.content | truncate: 1000 }}
+       
+        <p class="p-content"> 
+   {{ document.content | truncate: 445 }}
+ </p>
+         {% endif %}
+       
+        
+ </div> 
+  {% endif %}   
+{% endfor %}
