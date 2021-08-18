@@ -50,7 +50,7 @@ title: Bookshelf
 - [Men versus the Man: a Correspondence between Robert Rives La Monte, Socialist and H. L. Mencken, Individualist](/) by H.L. Mencken
 - [A Book of Prefaces](/) by H.L. Mencken
 - [Damn! A Book of Calumny](/) by H.L. Mencken
-- [Notes on Democracy](/) by H.L. Mencken
+- **[Notes on Democracy](/)** by H.L. Mencken
 - [Minority Report](/) by H.L. Mencken
 - [Prejudices: The Complete Series](/) by H.L. Mencken (LOA boxed set)
 - [The Days Trilogy, Expanded Edition](/) by H.L. Mencken
