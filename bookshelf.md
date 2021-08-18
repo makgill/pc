@@ -43,3 +43,12 @@ title: Bookshelf
 - [The Ominous Parallels: The End of Freedom in America](/) by Leonard Peikoff
 - [Keeping It Real: Bringing Ideas Down to Earth](/) by Leonard Peikoff
 - [Principles of Grammar](/) by Leonard Peikoff
+
+I spent two years tracking down all of the novels of Sir George Makgill, a *very* distant relation. Many of these were written psuenonymously and the various names are listed by the books below.
+
+- [Felons](/) by Sir George Makgill
+- [Blacklaw](/) by Sir George Makgill
+- [Cross Trails](/) by Victor Waite
+- [The Nameless Order](/) by Dargon
+- [The Red To-Morrow](/) by Emerson C. Hambrook
+- [Outside and overseas: being the history of Captain Mungo Ballas](/) by Mungo Ballas
