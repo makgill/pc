@@ -44,6 +44,8 @@ title: Bookshelf
 - [Keeping It Real: Bringing Ideas Down to Earth](/) by Leonard Peikoff
 - [Principles of Grammar](/) by Leonard Peikoff
 
+<br>
+
 I spent two years tracking down all of the novels of Sir George Makgill, a *very* distant relation. Many of these were written psuenonymously and the various names are listed by the books below.
 
 - [Felons](/) by Sir George Makgill
