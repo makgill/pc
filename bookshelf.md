@@ -12,6 +12,19 @@ title: Bookshelf
 
 <br>
 
+- **[Columbus Day (Expeditionary Force)](/)** by Craig Alanson
+- [SpecOps (Expeditionary Force)](/) by Craig Alanson
+- [Paradise (Expeditionary Force)](/) by Craig Alanson
+- [Black Ops (Expeditionary Force)](/) by Craig Alanson
+- [Zero Hour (Expeditionary Force)](/) by Craig Alanson
+- [Mavericks (Expeditionary Force)](/) by Craig Alanson
+- **[Renegades (Expeditionary Force)](/)** by Craig Alanson
+- [Homefront: An Expeditionary Force Audio Drama Special](/) by Craig Alanson
+- [Armageddon (Expeditionary Force)](/) by Craig Alanson
+- [Valkyrie (Expeditionary Force)](/) by Craig Alanson
+
+<br>
+
 - **[Atlas Shrugged](/) by Ayn Rand.** I buy well-kept first printings and put them in fascimile jackets. The bindings are sewn and the paper is way better quality.
 - [Anthem](/) by Ayn Rand
 - [We the Living](/) by Ayn Rand
