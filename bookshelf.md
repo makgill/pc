@@ -53,6 +53,30 @@ title: Bookshelf
 
 <br>
 
+- [The Last Day of a Condemned Man](/) by Victor Hugo
+- [Les Misérables](/) by Victor Hugo
+
+<br>
+
+- [The Count of Monte Cristo](/) by Alexandre Dumas translated by Robin Buss
+
+<br>
+
+I usually prefer the Constance Garnett translations of Russian classics over Pevear and others, when available. 
+
+- [Demons](/) by Fyodor Dostoevsky
+- [Notes from Underground](/) by Fyodor Dostoevsky
+- [Crime and Punishment](/) by Fyodor Dostoevsky
+- [The Brothers Karamazov](/) by Fyodor Dostoevsky
+- [The Idiot](/) by Fyodor Dostoevsky
+- [The Double and The Gambler](/) by Fyodor Dostoevsky
+- [Fathers and Sons](/) by Ivan Turgenev
+- [First Love and Other Stories](/) by Ivan Turgenev
+- [Rudin](/) by Ivan Turgenev
+- [Diary of a Superfluous Man](/) by Ivan Turgenev
+
+<br>
+
 - [The Philosophy of Friedrich Nietzsche](/) by H.L. Mencken
 - [Men versus the Man: a Correspondence between Robert Rives La Monte, Socialist and H. L. Mencken, Individualist](/) by H.L. Mencken
 - [A Book of Prefaces](/) by H.L. Mencken
