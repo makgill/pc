@@ -104,3 +104,10 @@ I spent two years tracking down all of the novels of Sir George Makgill, a *very
 - [The Nameless Order](/) by Dargon
 - [The Red To-Morrow](/) by Emerson C. Hambrook
 - [Outside and overseas: being the history of Captain Mungo Ballas](/) by Mungo Ballas
+
+<br>
+
+- [The Secret Life: Three True Stories of the Digital Age](/) by Andrew O'Hagan
+- [The Glass Cage: How Our Computers Are Changing Us](/) by Nicholas Carr
+- [The Shallows](/) by Nicholas Carr
+- [Utopia Is Creepy: And Other Provocations](/) by Nicholas Carr
