@@ -101,6 +101,7 @@ I usually prefer the Constance Garnett translations of Russian classics over Pev
 - [First Love and Other Stories](/) by Ivan Turgenev
 - [Rudin](/) by Ivan Turgenev
 - [Diary of a Superfluous Man](/) by Ivan Turgenev
+- **[A Hero of our Time](/)** by Mikhail Lermontov
 
 <br>
 
