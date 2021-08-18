@@ -46,6 +46,20 @@ title: Bookshelf
 
 <br>
 
+- [The Philosophy of Friedrich Nietzsche](/) by H.L. Mencken
+- [Men versus the Man: a Correspondence between Robert Rives La Monte, Socialist and H. L. Mencken, Individualist](/) by H.L. Mencken
+- [A Book of Prefaces](/) by H.L. Mencken
+- [Damn! A Book of Calumny](/) by H.L. Mencken
+- [Notes on Democracy](/) by H.L. Mencken
+- [Minority Report](/) by H.L. Mencken
+- [Prejudices: The Complete Series](/) by H.L. Mencken (LOA boxed set)
+- [The Days Trilogy, Expanded Edition](/) by H.L. Mencken
+- [A New Dictionary of Quotations on Historical Principles from Ancient and Modern Sources](/) by H.L. Mencken
+- [A Mencken Chrestomathy](/) by H.L. Mencken
+- [The Passing of a Profit and Other Forgotten Stories](/) by H.L. Mencken
+
+<br>
+
 I spent two years tracking down all of the novels of Sir George Makgill, a *very* distant relation. Many of these were written psuenonymously and the various names are listed by the books below.
 
 - [Felons](/) by Sir George Makgill
