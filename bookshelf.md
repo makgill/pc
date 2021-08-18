@@ -28,6 +28,11 @@ title: Bookshelf
 
 <br>
 
+- **[Ender's Game](/)** by Orson Scott Card
+- [Ender's Shadow](/) by Orson Scott Card
+
+<br>
+
 - [Who Is Ayn Rand?](/) by Nathaniel Branden and Barbara Branden
 - [The Vision of Ayn Rand: The Basic Principles of Objectivism](/) by Nathaniel Branden
 - [Judgment Day: My Years with Ayn Rand](/) by Nathaniel Branden
@@ -46,8 +51,8 @@ title: Bookshelf
 
 <br>
 
-- [The Powers of the Earth (Aristillus Book 1)](/) by Travis J. I. Corcoran 
-- [Causes of Separation (Aristillus Book 2)](/) by Travis J. I. Corcoran 
+- **[The Powers of the Earth (Aristillus Book 1)](/)** by Travis J. I. Corcoran 
+- **[Causes of Separation (Aristillus Book 2)](/)** by Travis J. I. Corcoran 
 - [Staking A Claim (Aristillus)](/) by Travis J. I. Corcoran
 - [The Team (Aristillus)](/) by Travis J. I. Corcoran
 
@@ -58,7 +63,7 @@ title: Bookshelf
 
 <br>
 
-- [The Count of Monte Cristo](/) by Alexandre Dumas translated by Robin Buss
+- **[The Count of Monte Cristo](/)** by Alexandre Dumas translated by Robin Buss
 
 <br>
 
