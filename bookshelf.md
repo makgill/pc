@@ -3,6 +3,15 @@ layout: page
 title: Bookshelf
 ---
 
+- **[We Are Legion (We Are Bob)](/)** by Dennis E. Taylor (audiobook)
+- [For We Are Many](/) by Dennis E. Taylor (audiobook)
+- [All These Worlds](/) by Dennis E. Taylor (audiobook)
+- [Heaven’s River](/) by Dennis E. Taylor (audiobook)
+- [The Singularity Trap](/) by Dennis E. Taylor (audiobook)
+- [A Change of Plans](/) by Dennis E. Taylor (audiobook)
+
+<br>
+
 - **[Atlas Shrugged](/) by Ayn Rand.** I buy well-kept first printings and put them in fascimile jackets. The bindings are sewn and the paper is way better quality.
 - [Anthem](/) by Ayn Rand
 - [We the Living](/) by Ayn Rand
