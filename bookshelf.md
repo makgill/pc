@@ -46,6 +46,13 @@ title: Bookshelf
 
 <br>
 
+- [The Powers of the Earth (Aristillus Book 1)](/) by Travis J. I. Corcoran 
+- [Causes of Separation (Aristillus Book 2)](/) by Travis J. I. Corcoran 
+- [Staking A Claim (Aristillus)](/) by Travis J. I. Corcoran
+- [The Team (Aristillus)](/) by Travis J. I. Corcoran
+
+<br>
+
 - [The Philosophy of Friedrich Nietzsche](/) by H.L. Mencken
 - [Men versus the Man: a Correspondence between Robert Rives La Monte, Socialist and H. L. Mencken, Individualist](/) by H.L. Mencken
 - [A Book of Prefaces](/) by H.L. Mencken
