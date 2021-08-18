@@ -3,6 +3,14 @@ layout: page
 title: Bookshelf
 ---
 
+This is a *loosely* organised list of books I have on my shelves or devices. I've
+included information about the translation or the particular copy or edition of a book I
+have when applicable.
+
+Bolded titles are books I loved. Just because a book is on this list doesn't mean I like it or endorse it.
+There are a lot of books here I didn't enjoy or books with which I don't agree. I'll try to update the information one
+day with reviews and notes.
+
 - **[We Are Legion (We Are Bob)](/)** by Dennis E. Taylor (audiobook)
 - [For We Are Many](/) by Dennis E. Taylor (audiobook)
 - [All These Worlds](/) by Dennis E. Taylor (audiobook)
