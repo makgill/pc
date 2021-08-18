@@ -12,16 +12,16 @@ title: Bookshelf
 
 <br>
 
-- **[Columbus Day (Expeditionary Force)](/)** by Craig Alanson
-- [SpecOps (Expeditionary Force)](/) by Craig Alanson
-- [Paradise (Expeditionary Force)](/) by Craig Alanson
-- [Black Ops (Expeditionary Force)](/) by Craig Alanson
-- [Zero Hour (Expeditionary Force)](/) by Craig Alanson
-- [Mavericks (Expeditionary Force)](/) by Craig Alanson
-- **[Renegades (Expeditionary Force)](/)** by Craig Alanson
-- [Homefront: An Expeditionary Force Audio Drama Special](/) by Craig Alanson
-- [Armageddon (Expeditionary Force)](/) by Craig Alanson
-- [Valkyrie (Expeditionary Force)](/) by Craig Alanson
+- **[Columbus Day (Expeditionary Force)](/)** by Craig Alanson (audiobook)
+- [SpecOps (Expeditionary Force)](/) by Craig Alanson (audiobook)
+- [Paradise (Expeditionary Force)](/) by Craig Alanson (audiobook)
+- [Black Ops (Expeditionary Force)](/) by Craig Alanson (audiobook)
+- [Zero Hour (Expeditionary Force)](/) by Craig Alanson (audiobook)
+- [Mavericks (Expeditionary Force)](/) by Craig Alanson (audiobook)
+- **[Renegades (Expeditionary Force)](/)** by Craig Alanson (audiobook)
+- [Homefront: An Expeditionary Force Audio Drama Special](/) by Craig Alanson (audiobook)
+- [Armageddon (Expeditionary Force)](/) by Craig Alanson (audiobook)
+- [Valkyrie (Expeditionary Force)](/) by Craig Alanson (audiobook)
 
 <br>
 
