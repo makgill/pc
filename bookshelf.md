@@ -24,3 +24,12 @@ title: Bookshelf
 - [The Ayn Rand Lexicon: Objectivism from A to Z (Ayn Rand Library)](/) by Ayn Rand and Harry Binswanger
 - [The Ayn Rand Column: Written for the Los Angeles Times](/) by Ayn Rand
 - [Ayn Rand Answers: The Best of Her Q & A](/) by Ayn Rand
+- [The Ayn Rand Letter: Volumes I-IV, 1971-1976](/) by Ayn Rand
+
+- [Who Is Ayn Rand?](/) by Nathaniel Branden and Barbara Branden
+- [The Vision of Ayn Rand: The Basic Principles of Objectivism](/) by Nathaniel Branden
+- [Judgment Day: My Years with Ayn Rand](/) by Nathaniel Branden
+- [The Passion of Ayn Rand](/) by Barbara Branden
+- [The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding that Launched a New Era in Modern Psychology](/) by Nathaniel Branden
+- [Layers] by Nathaniel Branden
+- [The Six Pillars of Self-Esteem] by Nathaniel Branden
