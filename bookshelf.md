@@ -77,6 +77,11 @@ I usually prefer the Constance Garnett translations of Russian classics over Pev
 
 <br>
 
+- The Story of Operation Atlantis by Warren K. Stevens
+- The Atlantis News Archive by Warren K. Stevens
+
+<br>
+
 - [The Philosophy of Friedrich Nietzsche](/) by H.L. Mencken
 - [Men versus the Man: a Correspondence between Robert Rives La Monte, Socialist and H. L. Mencken, Individualist](/) by H.L. Mencken
 - [A Book of Prefaces](/) by H.L. Mencken
