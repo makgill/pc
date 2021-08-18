@@ -26,13 +26,17 @@ title: Bookshelf
 - [Ayn Rand Answers: The Best of Her Q & A](/) by Ayn Rand
 - [The Ayn Rand Letter: Volumes I-IV, 1971-1976](/) by Ayn Rand
 
+  
+
 - [Who Is Ayn Rand?](/) by Nathaniel Branden and Barbara Branden
 - [The Vision of Ayn Rand: The Basic Principles of Objectivism](/) by Nathaniel Branden
 - [Judgment Day: My Years with Ayn Rand](/) by Nathaniel Branden
 - [The Passion of Ayn Rand](/) by Barbara Branden
 - [The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding that Launched a New Era in Modern Psychology](/) by Nathaniel Branden
-- [Layers] by Nathaniel Branden
-- [The Six Pillars of Self-Esteem] by Nathaniel Branden
+- [Layers](/) by Nathaniel Branden
+- [The Six Pillars of Self-Esteem](/) by Nathaniel Branden
+
+  
 
 - [Objectivism: The Philosophy of Ayn Rand](/) by Leonard Peikoff
 - [Teaching Johnny to Think: A Philosophy of Education Based on the Principles of Ayn Rand's Objectivism](/) by Leonard Peikoff
