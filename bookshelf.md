@@ -73,6 +73,13 @@ title: Bookshelf
 
 <br>
 
+- [The Greek Way](/) by Edith Hamilton
+- [The Echo of Greece](/) by Edith Hamilton
+- [The Ever-Present Past]v by Edith Hamilton
+- [Greek Mythology](/) by Edith Hamilton
+
+<br>
+
 - **[The Powers of the Earth (Aristillus Book 1)](/)** by Travis J. I. Corcoran 
 - **[Causes of Separation (Aristillus Book 2)](/)** by Travis J. I. Corcoran 
 - [Staking A Claim (Aristillus)](/) by Travis J. I. Corcoran
