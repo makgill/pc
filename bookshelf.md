@@ -33,3 +33,9 @@ title: Bookshelf
 - [The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding that Launched a New Era in Modern Psychology](/) by Nathaniel Branden
 - [Layers] by Nathaniel Branden
 - [The Six Pillars of Self-Esteem] by Nathaniel Branden
+
+- [Objectivism: The Philosophy of Ayn Rand](/) by Leonard Peikoff
+- [Teaching Johnny to Think: A Philosophy of Education Based on the Principles of Ayn Rand's Objectivism](/) by Leonard Peikoff
+- [The Ominous Parallels: The End of Freedom in America](/) by Leonard Peikoff
+- [Keeping It Real: Bringing Ideas Down to Earth](/) by Leonard Peikoff
+- [Principles of Grammar](/) by Leonard Peikoff
