@@ -58,11 +58,6 @@ day with reviews and notes.
 
 <br>
 
-- **[Ender's Game](/)** by Orson Scott Card
-- [Ender's Shadow](/) by Orson Scott Card
-
-<br>
-
 - [Who Is Ayn Rand?](/) by Nathaniel Branden and Barbara Branden
 - [The Vision of Ayn Rand: The Basic Principles of Objectivism](/) by Nathaniel Branden
 - [Judgment Day: My Years with Ayn Rand](/) by Nathaniel Branden
@@ -78,6 +73,17 @@ day with reviews and notes.
 - [The Ominous Parallels: The End of Freedom in America](/) by Leonard Peikoff
 - [Keeping It Real: Bringing Ideas Down to Earth](/) by Leonard Peikoff
 - [Principles of Grammar](/) by Leonard Peikoff
+
+<br>
+
+- **[Ender's Game](/)** by Orson Scott Card
+- [Ender's Shadow](/) by Orson Scott Card
+
+<br>
+
+- [Little Brother](/) by Cory Doctorow
+- [Homeland by Cory](/) by Cory Doctorow
+- [Overclocked: More Stories of the Future Present](/) by Cory Doctorow
 
 <br>
 
