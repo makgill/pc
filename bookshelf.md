@@ -30,6 +30,7 @@ day with reviews and notes.
 - [Homefront: An Expeditionary Force Audio Drama Special 7.5](/) by Craig Alanson (audiobook)
 - [Armageddon (Expeditionary Force 8)](/) by Craig Alanson (audiobook)
 - [Valkyrie (Expeditionary Force 9)](/) by Craig Alanson (audiobook)
+- [Critical Mass (Expeditionary Force)](/) by Craig Alanson (audiobook)
 
 <br>
 
