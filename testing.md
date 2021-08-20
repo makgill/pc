@@ -35,6 +35,31 @@ Another solution may be to somehow turn off your fierceness, by devoting yoursel
 If you do choose the ambitious route, you'll have a tailwind behind you. There has never been a better time to be a nerd. In the past century we've seen a continuous transfer of power from dealmakers to technicians — from the charismatic to the competent — and I don't see anything on the horizon that will end it. At least not till the nerds end it themselves by bringing about the singularity.
 
 
+### [Scalable Semi-Trustless Asset Transfer via Single-Use-Seals and Proof-of-Publication](/)
+
+### [Bitcoin Mining in Space Isn't Practical Yet, But It Is Hard Sci-Fi](/)
+
+### [The Misleading and Inaccurate Claims Made to Tierion ICO Investors](/)
+
+### [Scalable Semi-Trustless Asset Transfer via Single-Use-Seals and Proof-of-Publication](/)
+
+### [Scalable Semi-Trustless Asset Transfer via Single-Use-Seals and Proof-of-Publication](/)
+
+### [Scalable Semi-Trustless Asset Transfer via Single-Use-Seals and Proof-of-Publication](/)
+
+### [Scalable Semi-Trustless Asset Transfer via Single-Use-Seals and Proof-of-Publication](/)
+
+### [Scalable Semi-Trustless Asset Transfer via Single-Use-Seals and Proof-of-Publication](/)
+
+### [Scalable Semi-Trustless Asset Transfer via Single-Use-Seals and Proof-of-Publication](/)
+
+### [Scalable Semi-Trustless Asset Transfer via Single-Use-Seals and Proof-of-Publication](/)
+
+### [Scalable Semi-Trustless Asset Transfer via Single-Use-Seals and Proof-of-Publication](/)
+
+### [Scalable Semi-Trustless Asset Transfer via Single-Use-Seals and Proof-of-Publication](/)
+
+### [Scalable Semi-Trustless Asset Transfer via Single-Use-Seals and Proof-of-Publication](/)
 
 
 
