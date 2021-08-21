@@ -4,7 +4,7 @@ title: Untitled aphorisms
 image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathustra_by_Friedrich_Nietchze_-_Poster.jpg?v=1470451333
 ---
 
-<p>1. You are not reading good books if you have never wondered if you should some of them before a Zoom call.</p>
+<p>1. You are not reading good books if you have never wondered if you should hide them before a Zoom call.</p>
 
 <br>
 
@@ -20,6 +20,14 @@ image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathust
 
 <br>
 
-<p>5. Racism is incorrectly and insufficiently supremacist. There are a small number of individuals to whom we owe civilisation. Most people of all races are not even footnotes to the story of their lives.</p>
+<p>5. Racism is incorrectly and insufficiently supremacist. There are a small number of individuals to whom we owe civilisation. Most people of all races are not footnotes to the story of their lives.</p>
 
-<p>
+<br>
+
+<p>6. The person who says "code is law" intends to write the code.</p>
+
+<br>
+
+<p>7. The scariest person in the world is the one who wants to help you without your consent.
+  
+  
