@@ -20,6 +20,6 @@ image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathust
 
 <br>
 
-<p>5. Racism is incorrectly and insufficiently supremacist. There are a small number of individuals who have carried civilization on their backs. Most people of all races, are not even footnotes on the story of their lives.</p>
+<p>5. Racism is incorrectly and insufficiently supremacist. There are a small number of individuals to whom we owe civilisation. Most people of all races are not even footnotes to the story of their lives.</p>
 
 <p>
