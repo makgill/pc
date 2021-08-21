@@ -13,3 +13,5 @@ title: Untitled aphorisms
 
 5. A cheerful contempt for the common man and his ways is a marker for future success.
 
+6. In individuals, insanity is an illness. In groups, insanity is Democracy. 
+
