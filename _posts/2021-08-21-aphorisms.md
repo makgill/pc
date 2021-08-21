@@ -39,5 +39,11 @@ This is a public draft of a yet untitled book of aphorisms.
 <br>
 
 <p>9. I am too selfish to ever be a racist.</p>
+
+<br>
   
-  
+<p>10. Six branches of government in the United States: legislative, executive, judicial, bureacratic, academic, and journalistic.</p>
+
+<br>
+
+<p>11. The whole aim of journalism is not to inform, but to alarm people about an endless series of mostly imaginary dangers.</p>
