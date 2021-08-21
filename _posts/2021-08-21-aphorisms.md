@@ -38,5 +38,6 @@ This is a public draft of a yet untitled book of aphorisms.
 
 <br>
 
+<p>9. I am too selfish to ever be a racist.</p>
   
   
