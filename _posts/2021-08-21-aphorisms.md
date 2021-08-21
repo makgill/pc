@@ -30,7 +30,7 @@ This is a public draft of a yet untitled book of aphorisms.
 
 <br>
 
-<p>7. The scariest man in the world is the one who wants to help you without your consent.</p>
+<p>7. The scariest man in the world is the man who wants to help you without your consent.</p>
 
 <br>
 
@@ -47,3 +47,13 @@ This is a public draft of a yet untitled book of aphorisms.
 <br>
 
 <p>11. The whole aim of journalism is not to inform, but to alarm people about an endless series of mostly imaginary dangers.</p>
+
+<br>
+
+<p>12. Whoever feels the need to preface their argument with "as a" has already lost the argument.</p>
+
+<br>
+
+<p>13. The great strength of Americans is that the mass of them are too plainly unintellectual to consider any truly stupid idea.
+  
+<br>
