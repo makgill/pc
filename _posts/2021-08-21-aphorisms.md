@@ -57,3 +57,7 @@ This is a public draft of a yet untitled book of aphorisms.
 <p>13. The great strength of Americans is that the mass of them are too plainly unintellectual to consider any truly stupid idea.
   
 <br>
+  
+<p>14. Egalitarianism has never been about the common man. It has always been a conspiracy against the uncommon man with its only aim being to make him more common.</p>
+
+
