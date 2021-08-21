@@ -28,6 +28,13 @@ image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathust
 
 <br>
 
-<p>7. The scariest man in the world is the one who wants to help you without your consent.
+<p>7. The scariest man in the world is the one who wants to help you without your consent.</p>
+
+<br>
+
+<p>8. Before Democracy, one man was a tyrant. Under Democracy, every man is one.</p>
+
+<br>
+
   
   
