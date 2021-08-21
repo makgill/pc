@@ -4,6 +4,8 @@ title: Untitled aphorisms
 image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathustra_by_Friedrich_Nietchze_-_Poster.jpg?v=1470451333
 ---
 
+This is a public draft of a yet untitled book of aphorisms.
+
 <p>1. You are not reading good books if you have never wondered if you should hide them before a Zoom call.</p>
 
 <br>
