@@ -7,7 +7,7 @@ layout: default
 {% for document in documents limit:1 %}
   {% if document.layout == 'feature' %} 
          
-   {% if page.image %}
+   {% if document.image %}
           
           <img src="{{document.image}}" width="410" height="68" border="0" hspace="0" vspace="0" style="margin-bottom: 20px;" alt="{{ document.alt }}">
           
