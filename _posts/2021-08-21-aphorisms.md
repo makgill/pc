@@ -54,7 +54,7 @@ This is a public draft of a yet untitled book of aphorisms.
 
 <br>
 
-<p>13. The great strength of Americans is that the mass of them are too plainly unintellectual to consider any truly stupid idea.
+<p>13. The great strength of Americans is that the mass of them are too plainly unintellectual to consider any truly stupid idea.</p>
   
 <br>
   
