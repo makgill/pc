@@ -16,13 +16,6 @@ image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathust
 
 <br>
 
-<p>4. Selflessness is spiritual avarice in disguise. </p>
 
-<br>
 
-<p>5. A cheerful contempt for the common man and his ways is a marker for future success.</p>
-
-<br>
-
-<p>6. In individuals, insanity is an illness. In groups, insanity is Democracy. </p>
 
