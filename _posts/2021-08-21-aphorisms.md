@@ -6,6 +6,8 @@ image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathust
 
 This is a public draft of a yet untitled book of aphorisms.
 
+<br>
+
 <p>1. You are not reading good books if you have never wondered if you should hide them before a Zoom call.</p>
 
 <br>
