@@ -3,7 +3,7 @@ layout: feature
 title: Untitled aphorisms
 ---
 
-1. You are not reading good books if you've never had to hide from view some books on your shelves before a Zoom call.
+1. You are not reading good books if you've never had to hide some books from view before a Zoom call.
 
 2. It is best to be very intelligent, and next to that, it is better to be stupid than only a little intelligent. This is confirmed by the existence of journalists. A little intelligence makes a fool dangerous to himself and others.
 
