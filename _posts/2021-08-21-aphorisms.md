@@ -12,3 +12,4 @@ title: Untitled aphorisms
 4. Selflessness is spiritual avarice in disguise. 
 
 5. A cheerful contempt for the common man and his ways is a marker for future success.
+
