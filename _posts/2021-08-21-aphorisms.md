@@ -16,6 +16,8 @@ image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathust
 
 <br>
 
+<p>4. How to attract the worst people to a field: label people with that job "heroes."</p>
 
+<br>
 
 
