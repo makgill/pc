@@ -4,7 +4,7 @@ title: Untitled aphorisms
 image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathustra_by_Friedrich_Nietchze_-_Poster.jpg?v=1470451333
 ---
 
-<p>1. You are not reading good books if you have never felt like you should some of them before a Zoom call.</p>
+<p>1. You are not reading good books if you have never wondered if you should some of them before a Zoom call.</p>
 
 <br>
 
@@ -16,8 +16,10 @@ image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathust
 
 <br>
 
-<p>4. How to attract the worst people to a field: call them "heroes."</p>
+<p>4. How to attract the worst people to a profession: call it "heroic."</p>
 
 <br>
 
+<p>5. Racism is insufficiently supremacist. There are a small number of individuals who have carried civilization on their backs. And the lives of most people of all races and groups, are little more than footnotes on the story of their lives.</p>
 
+<p>
