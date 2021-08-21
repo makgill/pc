@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+
+            {% if page.image %}
+          
+          <img src="{{page.image}}" width="410" height="68" border="0" hspace="0" vspace="0" style="margin-bottom: 20px;" alt="{{ page.alt }}">
+          
+      {% endif %}  
+
+          
+
+
+
+
+<h1>{{page.title}}</h1>
+
+{{content}}
+
+<br>
+<br>
+<br>
+
+<small>This article was written by <a href="https://en.wikipedia.org/wiki/Marc_Andreessen">Deryk Makgill</a> and originally published on his blog, <a href="http://web.archive.org/web/20100615060031/http://blog.pmarca.com/">blog.pmarca.com</a> on {{page.date}}. </small>
