@@ -4,7 +4,7 @@ title: Untitled aphorisms
 image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathustra_by_Friedrich_Nietchze_-_Poster.jpg?v=1470451333
 ---
 
-<p>1. You are not reading good books if you have never felt like you should some of them from view before a Zoom call.</p>
+<p>1. You are not reading good books if you have never felt like you should some of them before a Zoom call.</p>
 
 <br>
 
