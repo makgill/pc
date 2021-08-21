@@ -1,6 +1,7 @@
 ---
 layout: feature
 title: Untitled aphorisms
+image: https://cdn.shopify.com/s/files/1/1108/5520/products/Thus_Spoke_Zarathustra_by_Friedrich_Nietchze_-_Poster.jpg?v=1470451333
 ---
 
 1. You are not reading good books if you've never had to hide some books from view before a Zoom call.
