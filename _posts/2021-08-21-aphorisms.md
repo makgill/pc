@@ -60,4 +60,10 @@ This is a public draft of a yet untitled book of aphorisms.
   
 <p>14. Egalitarianism has never been about the common man. It has always been a conspiracy against the uncommon man with its only aim being to make him more common.</p>
 
+<br>
+
+<p>15. Question to the racists: what possible duty can I owe to the lowest white man?</p>
+
+<br>
+
 
