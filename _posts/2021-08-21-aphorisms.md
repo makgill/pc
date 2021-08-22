@@ -70,5 +70,11 @@ This is a public draft of a yet untitled book of aphorisms.
 
 <p>16. The best jokes are the ones only the joker understands.</p>
 
+<br>
 
+<p>17. I say let the world go to Hell as long as I never lose the capacity to laugh.</p>
+
+<br>
+
+<p>18. I love individual people, but to my amazement, I find the more I love a particular person, the less I love mankind as a whole.</p>
 
