@@ -86,3 +86,6 @@ This is a public draft of a yet untitled book of aphorisms.
 
 <p>20. These days, most people are terribly afraid of admitting that they have never deeply suffered, and so they invent suffering.</p>
 
+<br>
+
+<p>21. People can forgive anyone except the man who has nothing to be forgiven for.</p>
