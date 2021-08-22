@@ -78,3 +78,7 @@ This is a public draft of a yet untitled book of aphorisms.
 
 <p>18. I love individual people, but to my amazement, I find the more I love a particular person, the less I love mankind as a whole.</p>
 
+<br>
+
+<p>19. To understand the character of a man: don't ask about his religion, his philosophy, his donations...observe his capacity to laugh.</p>
+
