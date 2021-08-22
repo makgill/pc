@@ -89,3 +89,7 @@ This is a public draft of a yet untitled book of aphorisms.
 <br>
 
 <p>21. People can forgive anyone except the man who has nothing to be forgiven for.</p>
+
+<br>
+
+<p>22. In the end, the common man will lay his freedom at government's feet and say to it, "make me your slave, but make him one as well" while pointing at his better neighbor.</p>
