@@ -92,4 +92,7 @@ This is a public draft of a yet untitled book of aphorisms.
 
 <br>
 
-<p>22. In the end, the common man will lay his freedom at government's feet and say to it, "make me your slave, but make him one as well" while pointing at his better neighbor.</p>
+<p>22. In the end, the common man will lay his freedom at government's feet and say to it, "make me your slave." Then he will point at his neighbor and say "but make him one as well."</p>
+
+<br>
+
