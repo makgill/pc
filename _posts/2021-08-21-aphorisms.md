@@ -82,3 +82,6 @@ This is a public draft of a yet untitled book of aphorisms.
 
 <p>19. To understand the character of a man: don't ask about his religion, his philosophy, his donations...observe his capacity to laugh.</p>
 
+<br>
+
+<p>20. These days, most people are terribly afraid of admitting that they have never deeply suffered, and so they invent suffering.</p>
