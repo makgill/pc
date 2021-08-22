@@ -64,7 +64,7 @@ This is a public draft of a yet untitled book of aphorisms.
 
 <br>
 
-<p>15. Question to the racists: what possible duty can I owe to the lowest white man?</p>
+<p>15. Question to the racists: what possible duty can I owe to the lowest of my race?</p>
 
 <br>
 
