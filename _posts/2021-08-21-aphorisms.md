@@ -85,3 +85,4 @@ This is a public draft of a yet untitled book of aphorisms.
 <br>
 
 <p>20. These days, most people are terribly afraid of admitting that they have never deeply suffered, and so they invent suffering.</p>
+
