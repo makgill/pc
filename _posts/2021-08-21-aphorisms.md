@@ -68,4 +68,7 @@ This is a public draft of a yet untitled book of aphorisms.
 
 <br>
 
+<p>16. The best jokes are the ones only the joker understands.</p>
+
+
 
